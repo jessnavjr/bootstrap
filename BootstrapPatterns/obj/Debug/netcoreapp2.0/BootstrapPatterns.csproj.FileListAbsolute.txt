@@ -9,3 +9,14 @@
 /Users/jojo/Projects/BootstrapPatterns/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.AssemblyInfo.cs
 /Users/jojo/Projects/BootstrapPatterns/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.dll
 /Users/jojo/Projects/BootstrapPatterns/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.pdb
+/Users/jojo/Dev/BootstrapPatterns/bin/Debug/netcoreapp2.0/BootstrapPatterns.deps.json
+/Users/jojo/Dev/BootstrapPatterns/bin/Debug/netcoreapp2.0/BootstrapPatterns.runtimeconfig.json
+/Users/jojo/Dev/BootstrapPatterns/bin/Debug/netcoreapp2.0/BootstrapPatterns.runtimeconfig.dev.json
+/Users/jojo/Dev/BootstrapPatterns/bin/Debug/netcoreapp2.0/BootstrapPatterns.dll
+/Users/jojo/Dev/BootstrapPatterns/bin/Debug/netcoreapp2.0/BootstrapPatterns.pdb
+/Users/jojo/Dev/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.csprojResolveAssemblyReference.cache
+/Users/jojo/Dev/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.csproj.CoreCompileInputs.cache
+/Users/jojo/Dev/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.AssemblyInfoInputs.cache
+/Users/jojo/Dev/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.AssemblyInfo.cs
+/Users/jojo/Dev/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.dll
+/Users/jojo/Dev/BootstrapPatterns/obj/Debug/netcoreapp2.0/BootstrapPatterns.pdb

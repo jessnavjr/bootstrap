@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jojo/Projects/BootstrapPatterns/BootstrapPatterns/BootstrapPatterns.csproj",
+      "projectUniqueName": "/Users/jojo/Dev/BootstrapPatterns/BootstrapPatterns.csproj",
       "projectName": "BootstrapPatterns",
-      "projectPath": "/Users/jojo/Projects/BootstrapPatterns/BootstrapPatterns/BootstrapPatterns.csproj",
+      "projectPath": "/Users/jojo/Dev/BootstrapPatterns/BootstrapPatterns.csproj",
       "packagesPath": "/Users/jojo/.nuget/packages/",
-      "outputPath": "/Users/jojo/Projects/BootstrapPatterns/BootstrapPatterns/obj",
+      "outputPath": "/Users/jojo/Dev/BootstrapPatterns/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -12578,8 +12578,9 @@
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
+            "version": "2.0"
           }
         },
         "imports": [
